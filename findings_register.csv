@@ -1,0 +1,3 @@
+Finding ID,Area,Observation,Evidence,Risk,Priority,Recommended Action,Owner,Target Date,Status,Retest Result
+F-001,Identity,Example: MFA status not yet verified,Example: account settings review,Unknown,Needs review,Verify MFA for privileged accounts,Project reviewer,,Open,
+F-002,Data,Example: storage public-access setting not yet checked,Example: storage configuration review,Unknown,Needs review,Confirm public access is disabled unless approved,Project reviewer,,Open,
